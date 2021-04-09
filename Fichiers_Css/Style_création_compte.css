@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30 mars 2021, 10:07:37
+    Author     : yacine
+*/
+
+.prcp_cntr{
+    width: 99%;
+    height: 620px;
+    border: solid 2px;
+    
+    
+}
+.cntr_01{
+    width: 30%;
+    height: 48px;
+    text-align: center;
+    background-color: f1f3f8	;
+    margin-top: 42px;
+    margin-left: 20px;
+    border: dotted 1px;
+    border-bottom: none;
+}
+.cntr_01 h1{
+    margin-top: 11px;
+    font-size: 23px;
+}
+
+.cntr_02{
+    width: 95%;
+    height: 400px;
+    border: dotted 1px;
+    margin-left: 20px;
+    background-color: f1f3f8;
+}
+.cntr_form{
+    width: 92%;
+    height: 200px;
+    border: dotted 1px;
+    margin-top: 40px;
+    margin-left: 25px;
+    padding-left: 20px;
+    
+}
+
+
+.cntr_form input{
+    margin-top: 26px;
+    
+}
